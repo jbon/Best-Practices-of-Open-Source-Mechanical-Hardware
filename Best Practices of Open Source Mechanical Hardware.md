@@ -4,11 +4,6 @@ Best Practices of Open Source Mechanical Hardware
 A guide with practical advice for sharing product-related documentation 
 ------------------------------------------------------------------------
 
-Version 1.0 / February 2017
-
-Jérémy Bonvoisin, Kerstin Carola Schmidt  
-Technische Universität Berlin
-
 What makes a software program “open source” is that its source code is
 publicly available. What is pretty clear for software is less clear for
 hardware—especially for mechanical hardware. What does the term "source"
@@ -430,14 +425,6 @@ If your product gets 8 points, it conforms to the best practices of open
 source hardware. If your product gets 0 points, it does not seem to be
 open at all and should not be labelled as open source. If your product
 gets between 1 and 7, well, continue your efforts!
-
-Acknowledgments 
-----------------
-
-This guide has been written in the frame of the French-German research
-project “Open! – Methods and tools for community based product
-development” jointly funded by the Deutsche Forschungsgemeinschaft (DE)
-and the Agence Nationale de la Recherche (FR).
 
 [1] <http://www.oshwa.org/definition/>
 
