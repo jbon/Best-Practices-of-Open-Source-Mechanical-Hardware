@@ -1,4 +1,4 @@
-Best Practices of Open Source Mechanical Hardware
+﻿Best Practices of Open Source Mechanical Hardware
 =================================================
 
 A guide with practical advice for sharing product-related documentation 
@@ -6,7 +6,7 @@ A guide with practical advice for sharing product-related documentation
 
 What makes a software program “open source” is that its source code is
 publicly available. What is pretty clear for software is less clear for
-hardware—especially for mechanical hardware. What does the term "source"
+hardware — especially for mechanical hardware. What does the term "source"
 refer to in "open source hardware"? According to the Open Source
 Hardware Association (OSHWA): "*Open source hardware is hardware whose
 design is made publicly available so that anyone can study, modify,
@@ -282,13 +282,23 @@ There are at least two ways you can share editable information:
 
 -   through a Web 2.0 environment allowing online edition (e.g. a wiki).
 
-### Publish a contribution guide
+### Strengthen your Community
 
-If you want to build a community of co-designers, you may communicate
-publicly (i.e. make an open call) that interested persons are highly
-welcome to join and contribute in the product development. Publishing a
-contribution guide may be a good idea for this. Below are some advices
-for creating a motivational contribution guide.
+If you want to build an engaged community of co-designers, you may
+communicate publicly (i.e. make an open call) that interested persons
+are highly welcome to join and contribute in the product development and
+lower the barriers for contributing as much as you can.
+
+The more your community commits to your project, the more progress you
+will see.
+
+In this section, you will find out how to strengthen your community by
+publishing a contributing guide, the role of a well-written
+documentation and how to interact with your community.
+
+As a first step, publishing a contribution guide may be a good idea for
+initiating the process of growing a community. Here you can find some
+advice for creating a motivational contribution guide.
 
 State explicitly that people are welcomed and explain them *what* they
 can do. For example:
@@ -307,7 +317,7 @@ can do. For example:
 -   support your project financially.
 
 After letting potential contributors know *what* they can do, you may
-want to explain them *how* they can contribute. For example by providing
+want to explain them *how* they can contribute, for example by providing
 them practical information with regard to the following:
 
 -   Collaborative design tools:
@@ -327,6 +337,8 @@ them practical information with regard to the following:
 
     -   How are contributions evaluated and integrated?
 
+    -   What is the roadmap of your project?
+
     -   What rules and guidelines should be followed when contributing
         to the project?
 
@@ -341,6 +353,8 @@ them practical information with regard to the following:
     -   Who is involved in the project and how?
 
     -   Which skills are currently needed in your project?
+
+    -   How can they can contact your team?
 
 Finally, you may want to explain potential contributors *why* they
 should contribute, that is, what can motivate them spending time and
@@ -366,6 +380,82 @@ this:
     -   A sense of community motivates people participating in a
         co-creation environment. You might want to emphasize the aspects
         of community building and the collective spirit in your project.
+
+Now that new potential contributors know how they can become part of
+your project, it is important to collect them where they are. You can
+accomplish this by providing a detailed documentation that shows them
+what has happened in your project so far, allows them to be part of
+every step of the way and therefore helps with an easy start into the
+project.
+
+You might also label issues and tasks with labels that make it easy for
+new contributors to see good starting points for collaborating, for
+example “first timers only”, “good first task”, “documentation”.
+
+Once your community starts to grow, cultivating it and working on
+densifying it will serve as a catalyst to develop your project further.
+Every interaction is an opportunity for you to get them committed to
+your project.
+
+Here are some approaches that you could adapt, taken from
+<https://opensource.guide/building-community/> :
+
+-   Be grateful for every participation and thank them for their
+    interest in the project.
+
+-   Be responsive: People will be more enthusiastic about participating
+    when they feel you care about their contributions. Moreover, a
+    [Mozilla
+    study](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+    has found you will most likely find a much higher rate of return and
+    repeat contributions if you answer within 48 hours.
+
+-   Another finding of the above mentioned Mozilla study is that
+    inspiring (or showing) people their potential impact will increase
+    participation, so you might think about ways of visualizing the
+    possible ways they can influence your project.
+
+-   Be open-minded about the types of contributions, as long as they are
+    within the scope of the project vision as explained in the
+    contributing guide.
+
+-   Even if you disagree with a contribution, thank them for their idea
+    and explain them why it doesn’t fit into the scope of the project.
+    The more precise your contributing guide is, the more you prevent
+    contributions that don’t fit.
+
+-   “People are excited to contribute to projects when they feel a sense
+    of ownership, so don’t be afraid to delegate responsibility, for
+    example by resisting to fix small tasks by yourself, but instead
+    delegate them to new users to make them be part of the project from
+    the beginning. Also give credit to contributions by starting a
+    CONTRIBUTIONS or AUTHORS file in your project, listing everyone who
+    contributed to your project.” An example can be found here:
+    <https://github.com/sinatra/sinatra/blob/master/AUTHORS.md>
+
+If you’re using a collaborative version-control tool, using organization
+accounts instead of a personal account makes it easier to work on
+projects with external collaborators.
+
+Give your community room to congregate. This helps both sides: they get
+to know each other while you show you are serious about openness by
+making communication public and accessible.
+
+A good community interaction also supports you, as you are no longer the
+centre of all communication.
+
+Provide channels for communication such as a mailing list, social media
+and team collaboration tools and explain them how to use them.
+
+Licensing
+---------
+
+You might want to invest some time in deciding which license(s) you want
+to use. At this point, you can find a short overview, while the
+dedicated section in the [FAQ of the Open Source Hardware
+Association](http://www.oshwa.org/faq/) can provide you more detailed
+information about licensing and the differences between software and
+hardware licensing and between permissive and copyleft licenses.
 
 General advice
 --------------
@@ -431,3 +521,4 @@ gets between 1 and 7, well, continue your efforts!
 [2] <http://www.oshwa.org/sharing-best-practices/>
 
 [3] <http://certificate.oshwa.org/>
+
