@@ -404,33 +404,48 @@ Here are some approaches that you could adapt, taken from
     interest in the project.
 
 -   Be responsive: People will be more enthusiastic about participating
-    when they feel you care about their contributions which you can show
-    by answering quickly.
-
--   A [Mozilla
+    when they feel you care about their contributions. Moreover, a
+    [Mozilla
     study](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
-    has also shown that showing people their potential impact and the
-    influence they have on the project will increase participation.
+    has found you will most likely find a much higher rate of return and
+    repeat contributions if you answer within 48 hours.
 
--   Be open-minded about the types of contributions, as long as they fit
-    to the vision of the project. Even if a contribution doesn’t fit,
-    thank them for their idea and explain them why doesn’t fit it into
-    the scope of the project.
+-   Another finding of the above mentioned Mozilla study is that
+    inspiring (or showing) people their potential impact will increase
+    participation, so you might think about ways of visualizing the
+    possible ways they can influence your project.
+
+-   Be open-minded about the types of contributions, as long as they are
+    within the scope of the project vision as explained in the
+    contributing guide.
+
+-   Even if you disagree with a contribution, thank them for their idea
+    and explain them why it doesn’t fit into the scope of the project.
+    The more precise your contributing guide is, the more you prevent
+    contributions that don’t fit.
 
 -   “People are excited to contribute to projects when they feel a sense
     of ownership, so don’t be afraid to delegate responsibility, for
     example by resisting to fix small tasks by yourself, but instead
     delegate them to new users to make them be part of the project from
-    the beginning.” Also give credit to contributors by listing them in
-    your project.
+    the beginning. Also give credit to contributions by starting a
+    CONTRIBUTIONS or AUTHORS file in your project, listing everyone who
+    contributed to your project.” An example can be found here:
+    <https://github.com/sinatra/sinatra/blob/master/AUTHORS.md>
 
 If you’re using a collaborative version-control tool, using organization
 accounts instead of a personal account makes it easier to work on
 projects with external collaborators.
 
-Give your community room to congregate by providing channels for
-communication such as a mailing list, social media and team
-collaboration tools and explain them how to use them.
+Give your community room to congregate. This helps both sides: they get
+to know each other while you show you are serious about openness by
+making communication public and accessible.
+
+A good community interaction also supports you, as you are no longer the
+centre of all communication.
+
+Provide channels for communication such as a mailing list, social media
+and team collaboration tools and explain them how to use them.
 
 Licensing
 ---------
